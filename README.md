@@ -19,10 +19,6 @@ Let’s have a look at the algorithm of sentiment-analyzer implemented as a tele
 <img width="239" alt="image" src="https://github.com/NataliaKalinina13/sentiment_analyser_bot/assets/85068191/281b8c5c-cc0e-4754-9816-6e738ac3bd50">
 
 
-
-![sentiment-analyzer algorithm](https://github.com/NataliaKalinina13/sentiment_analyzer_bot/assets/85068191/0fbc7207-d473-4d6b-8a74-03e2ecb78abf)
-
-
 And this is the result! Soon I’ll improve it and test new models, but now that’s it))
 <img width="599" alt="image" src="https://github.com/NataliaKalinina13/sentiment_analyser_bot/assets/85068191/b4b5fe3a-72a1-4e77-946b-25a0f437e31f">
 
