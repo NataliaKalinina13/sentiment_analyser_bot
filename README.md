@@ -16,11 +16,14 @@ The Dostoevsky classifies the text into 5 classes:
 In this project I’m interested only in negative, positive and neutral classes. Also remember that Dostoevsky doesn’t consider emojis as a component of tonality.
 
 Let’s have a look at the algorithm of sentiment-analyzer implemented as a telegram-bot.
+
+
 ![sentiment-analyzer algorithm](https://github.com/NataliaKalinina13/sentiment_analyzer_bot/assets/85068191/0fbc7207-d473-4d6b-8a74-03e2ecb78abf)
 
 
 And this is the result! Soon I’ll improve it and test new models, but now that’s it))
-<img width="598" alt="Pasted Graphic" src="https://github.com/NataliaKalinina13/tg_bot_sentiment_analyzer/assets/85068191/69851699-4beb-4815-ae5b-0b2bcc8703ef">
+<img width="599" alt="image" src="https://github.com/NataliaKalinina13/sentiment_analyser_bot/assets/85068191/b4b5fe3a-72a1-4e77-946b-25a0f437e31f">
+
 
 
 Don't forget to install requirements and download model weights for sentiment analysis (https://storage.b-labs.pro/models/fasttext-social-network-model.bin)
